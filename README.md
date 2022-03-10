@@ -22,8 +22,6 @@ The above assignment mainly have 3 LWC components:
 -In the serversidecontroller of this LWC component we are also activating the order.
 -On UI once the backend actions are successfully completed we are refreshing the record to show the backend changes.
 
-Demo Link : 
-https://drive.google.com/file/d/1KSY_X28uHZKUKv1fSi8zBkZOYVl_UCYK/view?usp=sharing
 
 
 
